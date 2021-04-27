@@ -1,3 +1,5 @@
+
+
 mkdir papka2
 cd papka2
 mkdir pap2.1 pap2.2 pap2.3
